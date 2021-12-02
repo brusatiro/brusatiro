@@ -1,4 +1,4 @@
-Oii! Eu sou a Bruna 👋🏻
+Oii! Bem-vindo(a) ao meu perfil 👋🏻
 
 <div>
   <a href="https://github.com/brusatiro">
